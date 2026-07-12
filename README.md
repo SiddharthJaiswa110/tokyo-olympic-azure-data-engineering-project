@@ -86,10 +86,8 @@ tokyo-olympic-azure-data-engineering-project
 │   └── curated/
 │
 ├── notebooks/
-│   ├── Data_Ingestion.ipynb
 │   ├── Data_Transformation.ipynb
-│   └── Data_Analysis.ipynb
-│
+│   
 ├── datasets/
 │   ├── athletes.csv
 │   ├── coaches.csv
@@ -166,15 +164,6 @@ Examples of analytical questions answered:
 
 ---
 
-# 📊 Sample Dashboard
-
-> *(Insert Power BI Dashboard Screenshot Here)*
-
-```
-images/dashboard.png
-```
-
----
 
 # 🚀 Features
 
@@ -209,29 +198,13 @@ images/dashboard.png
 
 - Incremental Data Loading
 - Delta Lake Integration
-- Azure Key Vault
 - Parameterized ADF Pipelines
-- CI/CD using Azure DevOps
 - Pipeline Monitoring
-- Logging & Alerting
 - Data Quality Checks
 - Unit Testing
 
 ---
 
-# 📸 Project Screenshots
-
-### Architecture
-
-```
-images/architecture.png
-```
-
-### Power BI Dashboard
-
-```
-images/dashboard.png
-```
 
 ---
 
@@ -266,21 +239,3 @@ This project demonstrates:
 - Business Intelligence reporting
 - End-to-end Azure ecosystem integration
 
----
-
-# 👨‍💻 Author
-
-**Siddharth Jaiswal**
-
-Electrical Engineering Undergraduate | NIT Raipur
-
-- 💼 Aspiring Data Engineer & Data Analyst
-- 📧 Email: your-email@example.com
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/SiddharthJaiswa110
-
----
-
-# ⭐ If you found this project useful
-
-Please consider giving this repository a ⭐ to support the project!
